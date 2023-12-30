@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Noto+Sans+JP&family=Nunito&family=Oswald:wght@300&family=Palanquin+Dark&display=swap');
+
+h1{
+    /* font-family: 'Oswald', sans-serif; */
+    font-family: 'Nunito', sans-serif;
+}
+
+.circle-logo {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .logo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+  }
